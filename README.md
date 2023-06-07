@@ -6,4 +6,8 @@ npm install nodemon --save
 npm install sequelize --save
 npm install myslq2 --save
 npm install body-parser --save
-npm i express-handlebars
+npm install firebase --save
+npm install -g firebase-tools --save
+firebase login
+firebase init
+firebase deploy --only hosting:"name"
